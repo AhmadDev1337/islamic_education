@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "265676566524",
+    "project_id": "ie-app-e326e",
+    "storage_bucket": "ie-app-e326e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265676566524:android:4ac916da866d9ea68d4c79",
+        "android_client_info": {
+          "package_name": "com.example.ie_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265676566524-kr8uesqfcoebdd2t6ppo5rq7gip9irnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ie_learning",
+            "certificate_hash": "c7c99460168bdd77b9d84cf22feb309c89d5d5f1"
+          }
+        },
+        {
+          "client_id": "265676566524-f61p4m9qho0jbtk4crf892ll7vudjt41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94GmH9Aw5A5dT8wTNYEZm19pkrWqMp-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265676566524-f61p4m9qho0jbtk4crf892ll7vudjt41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265676566524:android:3a9ff7f086c42dc18d4c79",
+        "android_client_info": {
+          "package_name": "com.example.islamic_education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265676566524-f61p4m9qho0jbtk4crf892ll7vudjt41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94GmH9Aw5A5dT8wTNYEZm19pkrWqMp-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265676566524-f61p4m9qho0jbtk4crf892ll7vudjt41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
